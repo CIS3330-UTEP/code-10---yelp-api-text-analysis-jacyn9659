@@ -1,1 +1,16 @@
+Offer a quick summary of the insights you want to discover using the Yelp Fusion API
+The Yelp Fusion API provides a gateway to extensive details about local enterprises, encompassing aspects like customer reviews, ratings, images, and additional data. 
 
+Explain the search parameters (e.g., term, location, sort criteria) that you plan to use
+Using the Yelp Fusion API, I conducted a search for "tacos," which allowed me to select a location and view the top 10 restaurants in that area. I specifically chose Birria Culiacan because im pretty familiar with this restraurant.
+
+Explain how you plan to use that information from the Yelp Fusion API to provide the business insights you want to discover
+I plan to  assess the top 10 taco spots in El Paso utilizing the Yelp API, which allows me to conveniently examine ratings across various categories or locations of my choice. This will help in evaluating their ratings and understanding the opinions of previous customers about theree performance
+
+Explain what text analysis (e.g., sentiment, most used words) you plan to use for obtaining the desired business insights
+I intend to use text analysis methods like sentiment analysis and word usage analysis to gain the necessary insights about businesses or in this case a specific business. In this instance, I assessed, extracted, and gathered customer feedback from Birria Culiacan's reviews through the use of sentiment analysis tools.
+
+Report the results of your analysis
+I was able to see the top 10 taco places here in El paso, choose the one I recgonized and was able to see there yelp reviews on their perfomance. on their url it also displays there menu and thwe different options they serve.
+Offer a conclusion with the information you obtained from the analysis
+Based on the data gathered from my analysis, I've determined that this is an ideal spot to sit down and enjoy a meal. Im pretty biased as ive had there food but seeing the ratings and how people love there food shows how well of a restrauant they are
